@@ -41,7 +41,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Email:** syed.abdurrehman.dev@gmail.com
+- **Email:** syed4abdurrehman@gmail.com
 - **LinkedIn:** [Syed Abdurrehman](https://www.linkedin.com/in/syed-abdurrehman)
 
 ## Contributing

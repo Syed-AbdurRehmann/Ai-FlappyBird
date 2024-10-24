@@ -24,6 +24,11 @@ Flappy AI is an engaging twist on the classic Flappy Bird game. In this version,
 
 ## Usage
 After starting the game, you can choose between **Player Mode** to play the game yourself or **AI Mode** to watch the AI tackle the obstacles. In AI Mode, you can adjust settings like reaction speed and strategy to see how the AI's behavior changes in real-time.
+![Screenshot 2024-10-24 101740](https://github.com/user-attachments/assets/2f0bd103-415f-422b-b661-ac4c9587a24d)
+![Screenshot 2024-10-24 101700](https://github.com/user-attachments/assets/c2750c07-f787-4f67-8d70-1eb88bca274e)
+![Screenshot 2024-10-24 101634](https://github.com/user-attachments/assets/20506266-1bbd-46c1-a0ff-6a8a39161d61)
+![Screenshot 2024-10-24 101615](https://github.com/user-attachments/assets/a141c342-8da5-412c-abb1-66b7dd950b40)
+
 
 ## File Structure
 - `Assets/`: Contains all the Unity assets, including scripts, models, and scenes.
